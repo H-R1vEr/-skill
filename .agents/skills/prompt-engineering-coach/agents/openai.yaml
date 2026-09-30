@@ -1,0 +1,7 @@
+interface:
+  display_name: "提示词工程教练"
+  short_description: "先把需求问清楚，再直接完成任务，而不是给你一段提示词去复制"
+  default_prompt: "用 $prompt-engineering-coach 先把我的需求问清楚，然后直接完成任务。"
+
+policy:
+  allow_implicit_invocation: true

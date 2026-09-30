@@ -1,0 +1,12 @@
+# 个人偏好文件绝不能进入仓库（README 声明的私有偏好保存在用户目录）
+preferences.md
+**/prompt-engineering-coach/preferences.md
+
+# 操作系统与编辑器
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.swp
+
+# 临时文件
+*.tmp
